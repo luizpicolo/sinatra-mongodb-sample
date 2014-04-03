@@ -4,12 +4,18 @@ This is a simple sample of using mongodb with sinatra
 
 # How to use
 
+**With the mongodb installed and configured**
+
 Clone the project
 
     git clone https://github.com/luizpicolo/sinatra-mongodb-sample.git
 
 
 Access the repository and run the command
+
+	bundle install
+
+and
 
     ruby app.rb
 
